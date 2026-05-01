@@ -157,7 +157,7 @@ unset __conda_setup
 # API keys: put them in ~/.zshrc.local (not tracked by git)
 
 # Added by Antigravity
-export PATH="/Users/yangchao/.antigravity/antigravity/bin:$PATH"
+export PATH="$HOME/.antigravity/antigravity/bin:$PATH"
 alias ls="eza"
 alias ll="eza -l --icons --git"
 alias la="eza -la --icons --git"
