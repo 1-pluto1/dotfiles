@@ -1,5 +1,2 @@
-# Sensitive local files
-.zshrc.local
-
-# macOS
 .DS_Store
+.zshrc.local

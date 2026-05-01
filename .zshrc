@@ -95,6 +95,7 @@ export NVM_DIR="$HOME/.nvm"
   [ -s "/opt/homebrew/opt/nvm/nvm.sh" ] && \. "/opt/homebrew/opt/nvm/nvm.sh"  # This loads nvm
   [ -s "/opt/homebrew/opt/nvm/etc/bash_completion.d/nvm" ] && \. "/opt/homebrew/opt/nvm/etc/bash_completion.d/nvm"  # This loads nvm bash_completion
 
+
 source $ZSH/oh-my-zsh.sh
 source ~/.oh-my-zsh/custom/plugins/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
 
@@ -153,7 +154,7 @@ unset __conda_setup
 
 . "$HOME/.local/bin/env"
 
-# API keys are stored in ~/.zshrc.local (not tracked by git)
+# API keys: put them in ~/.zshrc.local (not tracked by git)
 
 # Added by Antigravity
 export PATH="/Users/yangchao/.antigravity/antigravity/bin:$PATH"
