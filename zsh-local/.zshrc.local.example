@@ -1,0 +1,8 @@
+# Put your API keys and secrets here.
+# This file is NOT tracked by git.
+# Copy to ~/.zshrc.local and fill in your keys.
+
+# Example:
+# export OPENAI_API_KEY="sk-xxx"
+# export ANTHROPIC_API_KEY="sk-xxx"
+# export APIROUTER_API_KEY="cr_xxx"
